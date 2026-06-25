@@ -1,14 +1,35 @@
-Developer-Journal
+# 🚀 Developer Journal
 
-Create first project in my GitHub journey.
+## 📖 About
 
-My goal is to become an AI engineer.
+This repository documents my journey from a beginner software engineering student to an AI Engineer.
+
+I use this repository to track my learning, document important concepts, record my daily progress, and build the habits of a professional software engineer.
+
+This is my first project on GitHub and will continue evolving throughout my journey.
+
+## 🎯 Goal
+
+My goal is to become an AI Engineer by building strong software engineering fundamentals, mastering AI technologies, and creating industry-quality projects that solve real-world problems.
 
 Roadmap:- 
-Learn programming languages 
-Build fundamental 
-Build Projects
-Deep learning in AI
+Software Engineering Fundamentals
+        ↓
+Programming Languages
+        ↓
+Data Structures & Algorithms
+        ↓
+Projects
+        ↓
+Python Ecosystem
+        ↓
+Machine Learning
+        ↓
+Deep Learning
+        ↓
+LLMs & AI Engineering
+        ↓
+Production AI Systems
 
 ## AI Engineer Roadmap
 ### ✅ Completed
@@ -37,12 +58,18 @@ Deep learning in AI
 - 🔄 Day 04 — Markdown & README
 
 ##Repository Structure
--Projects/
--Projects/Devloper-Journal
--Projects/Devloper-Journal/Journal Notes Resources README.md
--Projects/Devloper-Journal/Journal/Day-01.md Day-02.md
--Projects/Devloper-Journal/Notes/Git.md
--Projects/Devloper-Journal/Resources/Commands.md
+```
+Developer-Journal/
+│
+├── README.md
+├── Journal/
+│   ├── Day-01.md
+│   └── Day-02.md
+├── Notes/
+│   └── Git.md
+└── Resources/
+    └── Commands.md
+```
 
 ##  Future Projects
 
@@ -66,3 +93,5 @@ Deep learning in AI
 - [ ] AI Resume Analyzer
 - [ ] AI Chatbot
 - [ ] Multi-Agent AI System
+
+## Feature Branch Test
