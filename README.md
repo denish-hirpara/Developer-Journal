@@ -10,7 +10,7 @@ This is my first project on GitHub and will continue evolving throughout my jour
 
 ## 🎯 Goal
 
-My goal is to become an AI Engineer by building strong software engineering fundamentals, mastering AI technologies, and creating industry-quality projects that solve real-world problems.
+My goal is to become a World-Class AI Engineer by building strong software engineering fundamentals, mastering AI technologies, and creating industry-quality projects that solve real-world problems.
 
 Roadmap:- 
 Software Engineering Fundamentals
